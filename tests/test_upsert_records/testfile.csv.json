@@ -1,0 +1,10 @@
+{"action": "CREATE", "recordId": "United States", "record": {"alpha_2": "US", "alpha_3": "USA", "name": "United States", "numeric": "840", "official_name": "United States of America"}}
+{"action": "CREATE", "recordId": "Virgin Islands, U.S.", "record": {"alpha_2": "VI", "alpha_3": "VIR", "name": "Virgin Islands, U.S.", "numeric": "850", "official_name": "Virgin Islands of the United States"}}
+{"action": "CREATE", "recordId": "Burkina Faso", "record": {"alpha_2": "BF", "alpha_3": "BFA", "name": "Burkina Faso", "numeric": "854", "official_name": "None"}}
+{"action": "CREATE", "recordId": "Uruguay", "record": {"alpha_2": "UY", "alpha_3": "URY", "name": "Uruguay", "numeric": "858", "official_name": "Eastern Republic of Uruguay"}}
+{"action": "CREATE", "recordId": "Uzbekistan", "record": {"alpha_2": "UZ", "alpha_3": "UZB", "name": "Uzbekistan", "numeric": "860", "official_name": "Republic of Uzbekistan"}}
+{"action": "CREATE", "recordId": "Venezuela, Bolivarian Republic of", "record": {"alpha_2": "VE", "alpha_3": "VEN", "name": "Venezuela, Bolivarian Republic of", "numeric": "862", "official_name": "Bolivarian Republic of Venezuela"}}
+{"action": "CREATE", "recordId": "Wallis and Futuna", "record": {"alpha_2": "WF", "alpha_3": "WLF", "name": "Wallis and Futuna", "numeric": "876", "official_name": "None"}}
+{"action": "CREATE", "recordId": "Samoa", "record": {"alpha_2": "WS", "alpha_3": "WSM", "name": "Samoa", "numeric": "882", "official_name": "Independent State of Samoa"}}
+{"action": "CREATE", "recordId": "Yemen", "record": {"alpha_2": "YE", "alpha_3": "YEM", "name": "Yemen", "numeric": "887", "official_name": "Republic of Yemen"}}
+{"action": "CREATE", "recordId": "Zambia", "record": {"alpha_2": "ZM", "alpha_3": "ZMB", "name": "Zambia", "numeric": "894", "official_name": "Republic of Zambia"}}

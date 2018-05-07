@@ -1,0 +1,9 @@
+{"action": "CREATE", "recordId": 1, "record": {"alpha_2": "AF", "alpha_3": "AFG", "name": "Afghanistan", "numeric": "004", "official_name": "Islamic Republic of Afghanistan"}}
+{"action": "CREATE", "recordId": 2, "record": {"alpha_2": "AL", "alpha_3": "ALB", "name": "Albania", "numeric": "008", "official_name": "Republic of Albania"}}
+{"action": "CREATE", "recordId": 3, "record": {"alpha_2": "AQ", "alpha_3": "ATA", "name": "Antarctica", "numeric": "010", "official_name": "None"}}
+{"action": "CREATE", "recordId": 4, "record": {"alpha_2": "DZ", "alpha_3": "DZA", "name": "Algeria", "numeric": "012", "official_name": "People's Democratic Republic of Algeria"}}
+{"action": "CREATE", "recordId": 5, "record": {"alpha_2": "AS", "alpha_3": "ASM", "name": "American Samoa", "numeric": "016", "official_name": "None"}}
+{"action": "CREATE", "recordId": 6, "record": {"alpha_2": "AD", "alpha_3": "AND", "name": "Andorra", "numeric": "020", "official_name": "Principality of Andorra"}}
+{"action": "CREATE", "recordId": 7, "record": {"alpha_2": "AO", "alpha_3": "AGO", "name": "Angola", "numeric": "024", "official_name": "Republic of Angola"}}
+{"action": "CREATE", "recordId": 8, "record": {"alpha_2": "AG", "alpha_3": "ATG", "name": "Antigua and Barbuda", "numeric": "028", "official_name": "None"}}
+{"action": "CREATE", "recordId": 9, "record": {"alpha_2": "AZ", "alpha_3": "AZE", "name": "Azerbaijan", "numeric": "031", "official_name": "Republic of Azerbaijan"}}
